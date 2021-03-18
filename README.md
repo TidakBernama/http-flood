@@ -10,5 +10,7 @@ Cara menggunakannnya:
 --t = Tipe serangan cepat atau lambat(fast , slow)
 
 Contoh penggunaan:
+
 python3 jancok.py --t fast --h google.com --p 80
+
 python3 jancok.py --t slow --h https://www.google.com
